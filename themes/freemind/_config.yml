@@ -1,0 +1,50 @@
+slogan: "不负年华"
+
+theme: spacelab
+inverse: inverse
+
+menu:
+  - title: 文章
+    url: archives
+    intro: "All the articles."
+    icon: "fa fa-archive"
+  - title: 关于我
+    url: about
+    intro: "About me."
+    icon: "fa fa-user"
+
+links:
+  - title: "R4L(FlashHand.github.io)"
+    url: https://www.github.com/FlashHand
+    intro: "FlashHand"
+    icon: "fa fa-github"
+  - title: "R4L"
+    url: https://cn.linkedin.com/in/博-王-aa5b01bb
+    intro: "啥都没"
+    icon: "fa fa-linkedin"
+
+widgets:
+- category
+- tagcloud
+- recent_posts
+- links
+
+rss:
+fancybox: true
+favicon: favicon.png
+duoshuo_shortname:
+
+# Analytics
+google_analytics:
+  enable: false
+  siteid:
+baidu_tongji:
+  enable: false
+  siteid:
+
+# search
+# swiftype_key: V8jHA6RNmfzHPfuyVxiE
+
+# share widgets
+bdshare: false
+jiathis: true
