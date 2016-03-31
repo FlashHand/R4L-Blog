@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: R4L-Blog
+title: Hexo
 subtitle:
 description:
-author: Wang Bo
-language: default
+author: John Doe
+language:
 timezone:
 
 # URL
@@ -24,14 +24,12 @@ tag_dir: tags
 archive_dir: archives
 category_dir: categories
 code_dir: downloads/code
-about_dir: about
 i18n_dir: :lang
 skip_render:
 
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-auto_spacing: true
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
@@ -65,11 +63,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: freemind
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repository: https://github.com/FlashHand/FlashHand.github.io.git
-  branch: master
+  type:
