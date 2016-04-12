@@ -1,4 +1,4 @@
-slogan: "不负年华"
+slogan: "Soon I'll be old"
 
 theme: spacelab
 inverse: inverse
@@ -18,10 +18,6 @@ links:
     url: https://www.github.com/FlashHand
     intro: "FlashHand"
     icon: "fa fa-github"
-  - title: "R4L"
-    url: https://cn.linkedin.com/in/博-王-aa5b01bb
-    intro: "啥都没"
-    icon: "fa fa-linkedin"
 
 widgets:
 - category
@@ -32,7 +28,6 @@ widgets:
 rss:
 fancybox: true
 favicon: favicon.png
-duoshuo_shortname:
 
 # Analytics
 google_analytics:
