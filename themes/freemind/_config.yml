@@ -1,6 +1,6 @@
-slogan: "Soon I'll be old"
+slogan: "No need to retreat.YOLO:)"
 
-theme: spacelab
+theme: bootstrap
 inverse: inverse
 
 menu:
@@ -16,8 +16,12 @@ menu:
 links:
   - title: "R4L(FlashHand.github.io)"
     url: https://www.github.com/FlashHand
-    intro: "FlashHand"
+    intro: "ralwayne"
     icon: "fa fa-github"
+  - title: "CSDN"
+    url: http://blog.csdn.net/ralphwayne
+    intro: "ralwayne"
+    icon: "fa fa-external-link"
 
 widgets:
 - category
